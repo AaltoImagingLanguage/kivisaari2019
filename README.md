@@ -21,5 +21,8 @@ alpha_per_target parameter.
 *zero_shot/stability_selection.py* - This script is for selecting voxels with highest 
 correlation across trials
 
-*stimuli/stimulus_list.pdf* - List of stimuli used in the experiment. 
+*stimuli/stimulus_list.xlsx* - List of stimuli used in the experiment and translations thereof.
 
+*stimuli/clues_block**.txt* - All clue triplets in the experiment.
+
+*behavioral/behavioral_data.xslx* - Behavioral accuracies in the Guessing game task by target item and block. 
