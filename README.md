@@ -23,6 +23,6 @@ correlation across trials
 
 *stimuli/stimulus_list.xlsx* - List of stimuli used in the experiment and translations thereof.
 
-*stimuli/clues_block**.txt* - All clue triplets in the experiment.
+*stimuli/clues_block<A/B/C/D/E/F>.txt* - All clue triplets in the experiment.
 
 *behavioral/behavioral_data.xslx* - Behavioral accuracies in the Guessing game task by target item and block. 
