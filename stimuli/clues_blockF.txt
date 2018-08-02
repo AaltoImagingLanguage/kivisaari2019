@@ -1,0 +1,60 @@
+﻿elefantti	sillä on jalat	sillä on isot korvat	se on pitkäkärsäinen
+hevonen	sillä on korvat	juoksee nopeasti	se asuu tallissa
+hirvi	pitkäjalkainen	sillä on sarvet	aiheuttaa kolareita
+kameli	viihtyy lämpimässä	se pärjää vähällä vedellä	se on kaksikyttyräinen
+jänis	syö metsän kasvillisuutta	voi joutua ketun syömäksi	isot etuhampaat
+karhu	voi olla vaarallinen	se on kaikkiruokainen	murahtelee
+kenguru	sillä on kaksi korvaa	Australiasta	isot takajalat
+kirahvi	se voi juosta	sillä on pitkä kieli	monta metriä korkea
+kissa	sillä on nenä	pitää maidosta	se kehrää
+lammas	sillä on silmät	elää laumoissa	siitä saa villaa
+lehmä	se syö ruohoa	saa vasikoita	se tuottaa maitoa
+leijona	se on petoeläin	sillä on reviiri	metsästää savannilla
+orava	sen voi nähdä kotipihalla	se elää puissa	keräilee ruokaa
+seepra	se on raidallinen	elää savannilla	saaliseläin
+sika	sillä on häntä	se pitää kaivamisesta	siitä tehdään pekonia
+appelsiini	se on makea	se on oranssi	sitrushedelmä
+avokado	tummanvihreä kuori	rasvapitoinen kasvis	sillä on iso kivi
+banaani	se on maistuva	pitää kuoria	esim. Chiquita
+kookos	valkoinen sisältä	käytetään curryssa	kasvaa palmuissa
+kurkku	25-35cm pitkä	hyvin vesipitoinen	suolakurkun ainesosa
+maissi	siinä on jyviä	se on peruselintarvike	Cornflakesien ainesosa
+omena	sitä voi syödä	kasvaa pihapuussa	siiderin ainesosa
+peruna	ruoka-aine	voi olla multainen	ranskalaisten ainesosa
+pinaatti	sillä on lehdet	käytetään keitossa	vihreissä letuissa
+porkkana	se on oranssi	se on suippomainen	pupujen ruokaa
+raparperi	sen varsi on syötävä	sen varsi voi punertaa	isot lehdet
+rypäle	sen sisällä on siemeniä	niitä voi napostella	löytyy viinitiloilta
+sieni	väriltään usein ruskea	kasvaa maassa	sillä on lakki
+sipuli	sillä on voimakas tuoksu	kuullotetaan voissa	leikataan renkaiksi
+sitruuna	väriltään keltainen	maistuu kirpeältä	se puristetaan mehuksi
+ankkuri	tehty metallista	makaa merenpohjassa	pitää laivan paikallaan
+avain	se on pieni	sillä avataan	esim. Abloy
+haarukka	siinä on piikkejä	tehty teräksestä	ruokailuväline
+harava	tehty kovasta muovista	löytyy vajasta	nurmikon siistimiseen
+kynttilä	usein pitkän mallinen	siinä on liekki	sytytetään tulitikuilla
+lapio	voi painaa pari kiloa	sillä kaivetaan	lapioimiseen
+neula	se on ohut	se on terävä	ompelulaatikossa
+nuoli	sillä on kärki	sen päässä on sulat	se lentää ilman halki
+peili	helposti särkyvä	voi tuottaa huonoa onnea	se heijastaa valoa
+ruuvimeisseli	siinä on metalliosa	löytyy työkalupakista	kärki sopii ruuviin
+saha	se on litteän mallinen	löytyy usein vajasta	se on sahalaitainen
+sakset	siinä on käsiosa	siinä on kaksi terää	se leikkaa kangasta
+tikapuut	sitä käytetään rakentamisessa	paloauton varuste	siinä on askelmat
+vasara	kädessäpidettävä	löytyy työkalupakista	sillä hakataan
+veitsi	se voi olla vaarallinen	ruoanlaittoväline	sillä leikataan
+ambulanssi	siitä lähtee kova ääni	se kulkee teillä	sisällä on ensihoitaja
+auto	käyttää bensiiniä	sillä on pakoputki	esim. Lada
+bussi	sillä on renkaat	käyttö vaatii matkalipun	päätepysäkki Kampissa
+helikopteri	käyttää polttoainetta	sillä on ohjaamo	pyörivät roottorit
+juna	satoja metrejä pitkä	se kulkee sähköllä	päässä on veturi
+laiva	löytyy meriltä	se voi upota	venettä suurempi
+lentokone	voi olla 60 metrinen	sillä on siivet	sillä lennetään
+metro	noin 100m pitkä	kaupunkiliikennettä	kulkee tunnelissa
+mopo	tehty metallista	kaksirenkainen	ajetaan alaikäisenä
+pyörä	se on urheiluväline	sillä on soittokello	sitä poljetaan
+nosturi	käytetään rakentamiseen	nostamiseen	taloa korkeampi
+rekka	käyttää polttoainetta	kulkee teillä	ajaa raskasta lastia
+sukellusvene	se maksaa miljoonia	vedenalainen	sillä on periskooppi
+traktori	sillä on renkaat	se voi vetää kuormaa	isot takarenkaat
+trukki	sillä on renkaat	sillä nostetaan asioita	siirtää kuormalavoja

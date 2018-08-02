@@ -1,0 +1,60 @@
+﻿elefantti	kuuluu nisäkkäisiin	sillä on isot korvat	sillä on hyvä muisti
+hevonen	sillä on pää	juoksee nopeasti	sille laitetaan suitset
+hirvi	sillä on neljä jalkaa	sillä on sarvet	kuva liikennemerkeissä
+kameli	sillä voi ratsastaa	löytyy kuivilta erämailta	se on kaksikyttyräinen
+jänis	syö metsän kasvillisuutta	voi joutua ketun syömäksi	tupsumainen häntä
+karhu	sillä on kaksi silmää	nappaa joesta kaloja	pitää hunajasta
+kenguru	sillä on kaksi korvaa	Australiasta	se on pussieläin
+kirahvi	voi löytyä Afrikasta	sillä on kapeat jalat	monta metriä korkea
+kissa	sillä on selkäranka	sillä on viikset	sillä on yhdeksän henkeä
+lammas	kuuluu nisäkkäisiin	se on kotieläin	se määkii
+lehmä	se syö ruohoa	saa vasikoita	se ammuu
+leijona	se on petoeläin	sillä on reviiri	viidakon kuningas
+orava	sen voi nähdä kotipihalla	löytyy puistoista	pitää pähkinöistä
+seepra	sillä on kaviot	sillä on suojaväri	sen voi nähdä safarilla
+sika	sitä syödään	se pitää kaivamisesta	makkaran ainesosa
+appelsiini	se on makea	sisältää mehua	sitä on Jaffassa
+avokado	sillä on kuori	rasvapitoinen kasvis	sitä on guacamolessa
+banaani	se on keltainen	se on käyrä	tummuu helposti
+kookos	valkoinen sisältä	se on pähkinä	kasvaa palmuissa
+kurkku	käytetään salaatissa	sen voi viipaloida	hyödynnetään kasvohoidoissa
+maissi	keltainen	se on peruselintarvike	popcornin ainesosa
+omena	rouskuu suussa	piirakan ainesosa	sillä on siemenkota
+peruna	se on syötävä	voi olla multainen	sipsien ainesosa
+pinaatti	se on lehtimäinen	maultaan mieto	Kippari Kallen ruokaa
+porkkana	se on pitkä ja kapea	se on juures	pupujen ruokaa
+raparperi	sen varsi on syötävä	sen varsi voi punertaa	jälkiruokapiirakassa
+rypäle	sen sisällä on siemeniä	se kasvaa ryppäinä	viinin ainesosa
+sieni	voi löytää metsästä	voi olla myrkyllinen	hallusinogeeninen
+sipuli	sillä on voimakas tuoksu	sitä paistetaan	se itkettää
+sitruuna	se on soikean muotoinen	sillä maustetaan juomia	se puristetaan mehuksi
+ankkuri	voi painaa useita kiloja	tiputetaan veteen	pitää laivan paikallaan
+avain	se on kädessäpidettävä	käytetään avaamiseen	sopii lukkoon
+haarukka	se on kiiltävä	tehty teräksestä	ruokailuväline
+harava	tehty kovasta muovista	sen päässä on piikit	käytetään syksyllä
+kynttilä	se on pitkän mallinen	se valaisee	on tunnelmallinen
+lapio	se on työkalu	sillä kaivetaan	kuopan kaivamiseen
+neula	sillä on kärki	se on terävä	etsitään heinäsuovasta
+nuoli	sen kärki on terävä	sen päässä on sulat	se lentää ilman halki
+peili	helposti särkyvä	voi tuottaa huonoa onnea	se heijastaa valoa
+ruuvimeisseli	käytetään rakentamisessa	sillä ruuvataan	muotoiltu kärki
+saha	sillä on terävä reuna	löytyy varastosta	sillä sahataan
+sakset	se on käytännöllinen	tehty muovista ja metallista	se leikkaa kangasta
+tikapuut	ulottuu korkealle	voi olla kiikkerä	tuetaan seinää vasten
+vasara	tehty metallista	käyttämisestä lähtee ääni	sillä vasaroidaan
+veitsi	käytännöllinen	sillä on kärki	voin levittämiseen
+ambulanssi	siitä lähtee kova ääni	auttaa sairastuneita	ajaa sairaalaan
+auto	käyttää bensiiniä	sillä on pakoputki	moottoriteillä
+bussi	sillä on renkaat	kuljettaa matkustajia	pysähtyy pysäkillä
+helikopteri	sillä lennetään	armeijan käyttämä	pyörivät lavat
+juna	sillä voi matkustaa	se kulkee sähköllä	sisällä konduktööri
+laiva	se löytyy vedestä	se voi upota	venettä suurempi
+lentokone	se on suurikokoinen	sillä on ruuma	lentää taivaalla
+metro	noin 100m pitkä	kaupunkiliikennettä	kulkee tunnelissa
+mopo	tehty metallista	sillä on pakoputki	skootterin kaltainen
+pyörä	siinä on metalliosia	sillä on jarrut	sillä pyöräillään
+nosturi	se on kone	nostamiseen	rakennustyömailla
+rekka	sillä on moottori	se kuljettaa tavaraa	jonossa raja-asemilla
+sukellusvene	sen sisällä on ihmisiä	sillä on miehistö	sukeltaa veteen
+traktori	sillä on renkaat	se voi vetää kuormaa	löytyy maaseudulta
+trukki	siirtää lastia	yhden henkilön operoima	siirtää kuormalavoja

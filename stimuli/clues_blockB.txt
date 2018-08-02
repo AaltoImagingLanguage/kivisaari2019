@@ -1,0 +1,60 @@
+﻿elefantti	väriltään harmaa	elää laumoissa	sillä on syöksyhampaat
+hevonen	sillä on korvat	se voi potkaista	voi laukata
+hirvi	pitkäjalkainen	niitä löytyy Suomesta	aiheuttaa kolareita
+kameli	viihtyy lämpimässä	se pärjää vähällä vedellä	kulkee erämaan halki
+jänis	pidetään lemmikkinä	sillä on lyhyt häntä	isot etuhampaat
+karhu	voi olla vaarallinen	se nukkuu talviunet	murahtelee
+kenguru	sillä on turkki	se liikkuu hyppimällä	pitää poikasta taskussaan
+kirahvi	sen voi nähdä eläintarhassa	sillä on pitkä kieli	se on pitkäkaulainen
+kissa	sillä on nenä	se pitää jahtaamisesta	se kehrää
+lammas	laiduntaa niityillä	se on pörröinen	siitä saa villaa
+lehmä	siitä tehdään ruokaa	se on laikukas	se tuottaa maitoa
+leijona	löytyy Afrikasta	se voi ärjyä	metsästää savannilla
+orava	kuuluu jyrsijöihin	kiipeilee puissa	keräilee ruokaa
+seepra	se on raidallinen	elää savannilla	saaliseläin
+sika	sillä on häntä	kippurahäntäinen	voi röhkiä
+appelsiini	maistuu hyvältä	sisus on lohkoissa	sitrushedelmä
+avokado	se on pehmeä sisältä	sillä on ryppyinen kuori	hittipastassa
+banaani	se on maistuva	maistuu makealta	esim. Chiquita
+kookos	sillä on kova kuori	käytetään curryssa	sisällä on maitoa
+kurkku	se syödään raakana	raikkaan makuinen	suolakurkun ainesosa
+maissi	siinä on jyviä	sitä voi grillata	kasvaa tähkinä
+omena	se on pyöreä	kasvaa pihapuussa	siiderin ainesosa
+peruna	soikean muotoinen	siinä on tärkkelystä	sitä voi muussata
+pinaatti	sillä on lehdet	käytetään keitossa	sisältää rautaa
+porkkana	rouskuu suussa	sillä on vihreä kanta	sisältää karoteenia
+raparperi	sen varsi on syötävä	löytyy puutarhasta	kirpeän makuinen
+rypäle	maistuu makealta	niitä voi napostella	löytyy viinitiloilta
+sieni	sitä käytetään ruoanlaitossa	kasvaa maassa	esim. kantarelli
+sipuli	se on vahvan makuinen	siinä on kerroksia	leikataan renkaiksi
+sitruuna	se maistuu happamalta	voi puristaa mehua	limonadin ainesosa
+ankkuri	venevaruste	kiinni kettingissä	se voi ruostua
+avain	se on kiiltävä	sillä avataan	esim. Abloy
+haarukka	siinä on piikkejä	kuuluu aterimiin	käytetään syömiseen
+harava	se on pitkävartinen	puutarhaväline	lehtien kokoamiseen
+kynttilä	usein pitkulainen	siinä on liekki	sytytetään tulitikuilla
+lapio	voi painaa pari kiloa	maan siirtämiseen	lapioimiseen
+neula	sillä voi pistää	sillä voi lävistää	ompelulaatikossa
+nuoli	lentää ilmassa	kuuluu jousiammuntaan	tähdätään
+peili	siinä on lasia	riippuu seinällä	siitä näkee itsensä
+ruuvimeisseli	sitä tarvitaan kotitöissä	sitä käännetään	kärki sopii ruuviin
+saha	se on taipuisa	sillä voi kaataa puun	työnnetään ja vedetään
+sakset	se löytyy keittiöstä	reiät sormille	leikkaa paperia
+tikapuut	sitä käytetään rakentamisessa	paloauton varuste	korkealle ylettymiseen
+vasara	kädessäpidettävä	pää on metallia	sillä hakataan
+veitsi	se on tehty metallista	ruoanlaittoväline	sillä leikataan
+ambulanssi	sillä kuljetetaan	sillä on välkkyvät valot	sisällä on ensihoitaja
+auto	sillä liikutaan	sillä on ikkunat	esim. Lada
+bussi	sen käyttö on edullista	julkista liikennettä	päätepysäkki Kampissa
+helikopteri	käyttää polttoainetta	ihmisen tekemä	lentää paikallaan
+juna	se kulkee nopeasti	käyttää sähköä	kulkee raiteilla
+laiva	sillä on potkuri	sillä on miehistö	käytetään risteilyyn
+lentokone	voi olla 60 metrinen	saastuttaa	löytyy lentokentältä
+metro	sillä on penkit	kulkee raiteilla	maanalainen
+mopo	se käyttää polttoainetta	yhden ajettava	ajetaan alaikäisenä
+pyörä	sillä on istuin	sillä on ohjaustanko	sitä poljetaan
+nosturi	se on korkea	kääntyy 360 astetta	nostaa painavia asioita
+rekka	käyttää polttoainetta	sillä on pakoputki	ajaa raskasta lastia
+sukellusvene	se on pitkulainen	vedenpitävä	sillä on periskooppi
+traktori	se kulkee hitaasti	sillä vedetään	maatalousväline
+trukki	sillä on moottori	sillä nostetaan asioita	sillä on nostohaarukka

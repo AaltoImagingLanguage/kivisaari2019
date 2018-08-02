@@ -1,0 +1,60 @@
+﻿elefantti	kuuluu nisäkkäisiin	paksunahkainen	sillä on syöksyhampaat
+hevonen	se on voimakas	se voi potkaista	voi laukata
+hirvi	se on iso nisäkäs	niitä löytyy Suomesta	sillä on suuret sarvet
+kameli	sillä voi ratsastaa	se on hiekan värinen	sillä on kyttyrä
+jänis	sillä on viikset	sillä on lyhyt häntä	lisääntyy nopeasti
+karhu	sillä on kaksi silmää	se nukkuu talviunet	pitää hunajasta
+kenguru	se on ruskea	se on pitkähäntäinen	se on pussieläin
+kirahvi	sen voi nähdä eläintarhassa	sillä on laikkuja	se on pitkäkaulainen
+kissa	sillä on selkäranka	se pitää jahtaamisesta	raapii huonekaluja
+lammas	kuuluu nisäkkäisiin	se on pörröinen	se määkii
+lehmä	siitä tehdään ruokaa	se on laikukas	se ammuu
+leijona	löytyy Afrikasta	syö toisia eläimiä	uroksella on harja
+orava	löytyy metsistä	kiipeilee puissa	pitää pähkinöistä
+seepra	sillä on häntä	mustavalkoinen	sen voi nähdä safarilla
+sika	sitä syödään	kippurahäntäinen	makkaran ainesosa
+appelsiini	maistuu hyvältä	sisältää mehua	sitä on Jaffassa
+avokado	se on pehmeä sisältä	sillä on ryppyinen kuori	sitä on guacamolessa
+banaani	se on hedelmä	se on käyrä	tummuu helposti
+kookos	sillä on kova kuori	trooppisista maista	sisällä on kookosmaitoa
+kurkku	käytetään salaatissa	raikkaan makuinen	hyödynnetään kasvohoidoissa
+maissi	keltainen	sitä voi grillata	kasvaa tähkinä
+omena	se on pyöreä	voi tippua puusta	esim. Granny Smith
+peruna	se on syötävä	sen voi kuoria	sitä voi muussata
+pinaatti	se on väriltään vihreä	maultaan mieto	Kippari Kallen ruokaa
+porkkana	se on pitkä ja kapea	se on juures	kasvaa maan alla
+raparperi	sen varsi on syötävä	löytyy puutarhasta	kirpeän makuinen
+rypäle	maistuu makealta	se kasvaa ryppäinä	kuivataan rusinoiksi
+sieni	voi löytää metsästä	voi olla myrkyllinen	esim. kantarelli
+sipuli	se on vahvan makuinen	siinä on kerroksia	se itkettää
+sitruuna	se on soikean muotoinen	sillä maustetaan juomia	limonadin ainesosa
+ankkuri	voi painaa useita kiloja	tiputetaan veteen	se voi ruostua
+avain	se on kädessäpidettävä	sitä käännetään	lukon avaamiseen
+haarukka	se on kiiltävä	kuuluu aterimiin	nelipiikkinen
+harava	se on pitkulainen	puutarhaväline	lehtien kokoamiseen
+kynttilä	se on pitkulainen	se valaisee	on tunnelmallinen
+lapio	se on työkalu	maan siirtämiseen	sen pää on litteä
+neula	sillä on kärki	sillä voi lävistää	käytetään langan kanssa
+nuoli	sen kärki on terävä	kuuluu jousiammuntaan	tähdätään
+peili	se on kiiltävä	löytyy kylpyhuoneesta	siitä näkee itsensä
+ruuvimeisseli	sitä tarvitaan kotitöissä	sillä ruuvataan	muotoiltu kärki
+saha	se on taipuisa	sillä voi kaataa puun	sillä sahataan
+sakset	se löytyy keittiöstä	tehty muovista ja metallista	hiusten leikkaamiseen
+tikapuut	ulottuu korkealle	voi olla kiikkerä	korkealle ylettymiseen
+vasara	tehty metallista	käyttämisestä lähtee ääni	sillä vasaroidaan
+veitsi	käytännöllinen	sillä on kärki	voin levittämiseen
+ambulanssi	sillä on ratti	auttaa sairastuneita	ajaa punaisia päin
+auto	sillä liikutaan	ajaa paikasta toiseen	moottoriteillä
+bussi	sillä on renkaat	kuljettaa matkustajia	ajaa tiettyä reittiä
+helikopteri	sillä on pyrstöosa	armeijan käyttämä	lentää paikallaan
+juna	sillä voi matkustaa	käyttää sähköä	kulkee raiteilla
+laiva	se löytyy vedestä	sillä on kapteeni	käytetään risteilyyn
+lentokone	siitä lähtee kova ääni	saastuttaa	löytyy lentokentältä
+metro	sillä on penkit	julkista liikennettä	maanalainen
+mopo	se on kulkupeli	sillä on pakoputki	pieni moottoripyörä
+pyörä	siinä on metalliosia	sillä on ohjaustanko	kutsutaan "fillariksi"
+nosturi	se on korkea	kääntyy 360 astetta	rakennustyömailla
+rekka	sillä on moottori	se kuljettaa tavaraa	jonossa raja-asemilla
+sukellusvene	se on pitkulainen	vedenpitävä	varustettu torpedoilla
+traktori	se kulkee hitaasti	apuna kyntämisessä	löytyy maaseudulta
+trukki	sillä on moottori	käytetään varastoissa	edessä on nostin

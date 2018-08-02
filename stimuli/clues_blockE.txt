@@ -1,0 +1,60 @@
+﻿elefantti	väriltään harmaa	elää laumoissa	sillä on hyvä muisti
+hevonen	sillä on pää	voi hypätä esteitä	sille laitetaan suitset
+hirvi	sillä on neljä jalkaa	se on riistaeläin	kuva liikennemerkeissä
+kameli	sitä käytetään kantojuhtana	löytyy kuivilta erämailta	kulkee erämaan halki
+jänis	pidetään lemmikkinä	se on pitkäkorvainen	tupsumainen häntä
+karhu	se on väriltään ruskea	nappaa joesta kaloja	Suomen suurin petoeläin
+kenguru	sillä on turkki	se liikkuu hyppimällä	pitää poikasta taskussaan
+kirahvi	voi löytyä Afrikasta	sillä on kapeat jalat	syö puiden lehtiä
+kissa	sillä on korvat	sillä on viikset	sillä on yhdeksän henkeä
+lammas	laiduntaa niityillä	se on kotieläin	sillä on paksu villa
+lehmä	sillä on sorkat	se märehtii	sillä on utareet
+leijona	sillä on pitkät hampaat	se voi ärjyä	viidakon kuningas
+orava	kuuluu jyrsijöihin	löytyy puistoista	tuuheahäntäinen
+seepra	sillä on kaviot	sillä on suojaväri	sillä on mustat raidat
+sika	se löytyy maatilalta	se rypee mudassa	voi röhkiä
+appelsiini	sillä on siemeniä	sisus on lohkoissa	käytetään tuoremehuun
+avokado	sillä on kuori	sisus on vihertävä	hittipastassa
+banaani	se on keltainen	maistuu makealta	apinoiden ruokaa
+kookos	se on ruskea	se on pähkinä	sisällä on maitoa
+kurkku	se syödään raakana	sen voi viipaloida	tummanvihreä kuori
+maissi	siinä on tärkkelystä	kasvaa pelloilla	popcornin ainesosa
+omena	rouskuu suussa	piirakan ainesosa	sillä on siemenkota
+peruna	soikean muotoinen	siinä on tärkkelystä	sipsien ainesosa
+pinaatti	se on lehtimäinen	miedon makuinen	sisältää rautaa
+porkkana	rouskuu suussa	sillä on vihreä kanta	sisältää karoteenia
+raparperi	sillä on pitkä varsi	happaman makuinen	jälkiruokapiirakassa
+rypäle	kasvaa lämpimissä maissa	kasvaa köynnöksissä	viinin ainesosa
+sieni	sitä käytetään ruoanlaitossa	kasvaa kosteilla alueilla	hallusinogeeninen
+sipuli	ostetaan ruokakaupasta	sitä paistetaan	kirveltää silmiä
+sitruuna	se maistuu happamalta	voi puristaa mehua	sitrushedelmä
+ankkuri	venevaruste	kiinni kettingissä	käytetään satamassa
+avain	se on kiiltävä	käytetään avaamiseen	sopii lukkoon
+haarukka	sitä pidetään kädessä	tarttuu ruokaan	käytetään syömiseen
+harava	se on pitkävartinen	sen päässä on piikit	käytetään syksyllä
+kynttilä	sitä poltetaan	se on tehty vahasta	sillä on sydänlanka
+lapio	pitkävartinen	se on puutarhaväline	kuopan kaivamiseen
+neula	sillä voi pistää	siinä on reikä	etsitään heinäsuovasta
+nuoli	lentää ilmassa	sillä on suora varsi	ammutaan jousella
+peili	siinä on lasia	riippuu seinällä	laittautumiseen
+ruuvimeisseli	käytetään rakentamisessa	sitä käännetään	voi olla ristipäinen
+saha	sillä on terävä reuna	löytyy varastosta	työnnetään ja vedetään
+sakset	se on käytännöllinen	reiät sormille	leikkaa paperia
+tikapuut	se on pitkänmallinen	niitä pitkin kiivetään	tuetaan seinää vasten
+vasara	se on painava	pää on metallia	sillä lyödään nauloja
+veitsi	se on tehty metallista	on terävä	ruokailuväline
+ambulanssi	sillä kuljetetaan	sillä on välkkyvät valot	ajaa sairaalaan
+auto	sillä on moottori	sillä on ikkunat	sillä on turvavyöt
+bussi	sen käyttö on edullista	julkista liikennettä	pysähtyy pysäkillä
+helikopteri	sillä lennetään	ihmisen tekemä	pyörivät lavat
+juna	se kulkee nopeasti	julkista liikennettä	sisällä konduktööri
+laiva	sillä on potkuri	sillä on miehistö	sisällä hyttejä
+lentokone	se on suurikokoinen	sillä on ruuma	lentää taivaalla
+metro	käyttää sähköä	kulkee raiteilla	oranssi Helsingissä
+mopo	se käyttää polttoainetta	yhden ajettava	skootterin kaltainen
+pyörä	sillä on istuin	sillä on jarrut	sillä pyöräillään
+nosturi	se on kone	sillä siirretään asioita	nostaa painavia asioita
+rekka	painaa paljon	sillä on pakoputki	se kuljettaa rahtia
+sukellusvene	sen sisällä on ihmisiä	sillä on miehistö	sukeltaa veteen
+traktori	se kulkee moottorilla	sillä vedetään	maatalousväline
+trukki	siirtää lastia	yhden henkilön operoima	sillä on nostohaarukka
