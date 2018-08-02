@@ -30,4 +30,5 @@ alpha_per_target parameter.
 stability_selection.py - This script is for selecting voxels with highest 
 correlation across trials
 
+stimulus_list.pdf - List of stimuli used in the experiment. 
 
