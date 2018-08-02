@@ -4,18 +4,19 @@ information into rich meaningful representations
 
 
 ## Authors:
-- Sasa Kivisaari sasa.kivisaari@aalto.fi
-- Marijn van Vliet marijn.vanvliet@aalto.fi
+Sasa Kivisaari sasa.kivisaari@aalto.fi
+
+Marijn van Vliet marijn.vanvliet@aalto.fi
 
 
 The zero-shot learning code requires Python 3 environment and the following
 packages:
 
-numpy
-scipy
-pandas
-scikit-learn
-progressbar
+- numpy
+- scipy
+- pandas
+- scikit-learn
+- progressbar
 
 
 
