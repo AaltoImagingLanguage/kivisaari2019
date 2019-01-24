@@ -1,6 +1,6 @@
 # kivisaari2019
-This repository contains code and other material relating to Kivisaari et al. 2018: The brain reconstructs bits of 
-information into rich meaningful representations
+This repository contains code and other material relating to Kivisaari et al. 2019: Reconstructing meaning from bits of 
+information
 
 
 ## Authors:
